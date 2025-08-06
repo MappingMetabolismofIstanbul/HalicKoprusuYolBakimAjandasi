@@ -56,7 +56,37 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/zT1DYYg3/MEF-AAP-027-BAP-2025-08-06-19-21-28.png',
+            image: 'https://i.ibb.co/Fb9Tdc70/MEF-AAP-027-BAP-2025-08-06-20-23-15.png',
+            description: '',
+            location: {
+                center: [28.942,41.043],
+                zoom: 14,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: '1.2',
+            alignment: 'right',
+            hidden: false,
+            title: '',
+            image: 'https://i.ibb.co/1G121N6w/MEF-AAP-027-BAP-2025-08-06-20-24-47.png',
             description: '',
             location: {
                 center: [28.942,41.043],
